@@ -1,3 +1,5 @@
+//Program implementing vigenere cipher
+
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>

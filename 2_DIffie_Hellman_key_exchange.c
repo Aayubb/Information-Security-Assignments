@@ -1,3 +1,5 @@
+// Program that generetes a shared secrey key using Diffie Hellman key exchange
+
 #include <stdio.h>
 
 // Fast modular exponentiation

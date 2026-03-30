@@ -1,3 +1,5 @@
+// Program that enypts and decrypts a message usign the fence cipher method.
+
 #include <stdio.h>
 #include <string.h>
 
